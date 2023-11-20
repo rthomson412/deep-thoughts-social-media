@@ -92,7 +92,7 @@ nav {
 nav a {
   padding: 5px 10px;
   margin: 0 18px;
-  transition: all 0.2s;
+  transition: all 0.5s;
 }
 
 nav a:hover {
