@@ -218,7 +218,7 @@ nav a:hover {
   left: 5px;
   border-radius: 100%;
   -webkit-transition: all 0.2s ease;
-  transition: all 0.2s ease;
+  transition: all 0.3s ease;
 }
 
 [type='radio']:not(:checked) + label:after {
