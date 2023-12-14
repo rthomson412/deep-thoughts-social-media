@@ -118,7 +118,7 @@ nav a:hover {
   color: var(--dark);
   outline: none;
   background-color: var(--secondary);
-  transition: all 0.3s;
+  transition: all 0.2s;
 }
 
 .btn:hover,
