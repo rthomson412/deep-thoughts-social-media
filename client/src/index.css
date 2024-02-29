@@ -9,7 +9,7 @@
   --border-radius: 1rem;
   --spacing-one: calc(2rem * 0.9);
   --spacing-two: calc(2rem * 0.9);
-  --spacing-three: 1rem;
+  --spacing-three: 1.2rem;
   --spacing-four: calc(1rem * 1.3);
   --spacing-five: calc(1rem * 3.1);
 }
